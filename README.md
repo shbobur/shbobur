@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**shbobur/shbobur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Developer specializing in cross-platform applications and cloud solutions. With expertise in both desktop and web technologies, I help businesses build scalable, efficient software solutions.
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on GenAI based desktop apps
+- 💬 Ask me about Qt/C++, PySide6/Python, React, GenAI integration
+- ⚡ I'm passionate about EdTech and building MVPs that make a difference
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+```text
+Frontend     | Qt/C++, React, PySide6
+Backend      | Node.js, Django, FastAPI
+Languages    | Python, TypeScript, C++
+Cloud        | AWS, Azure, Google Cloud
+DevOps       | Docker
+```
+
+## 💡 Core Focus Areas
+
+- Cross-platform application development (Desktop & Mobile)
+- Cloud-native solutions and microservices
+- MVP development and rapid prototyping
+- AI/ML integration and data science solutions
+- Educational technology
+
+## 🤝 Let's Connect
+
+Looking for a developer to bring your ideas to life? I specialize in building efficient, scalable solutions across multiple platforms.
+
+[Connect with me on Upwork](https://www.upwork.com/freelancers/~0106efd0a3bad57336?mp_source=share)
+
+or email to shbobur2@gmail.com
